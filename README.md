@@ -60,7 +60,7 @@ conda install numpy rasterio xgboost joblib
 
 **1. Export predictor stacks from Google Earth Engine**
 
-Use the companion GEE script (`oslo_predictor_stack_export.js`) to export one 9-band GeoTIFF per Landsat scene to your Google Drive. Download the exported files and place them in the `stacks/` folder.
+Use the companion GEE script (https://code.earthengine.google.com/84bc748856504b173f73f27c04c53717) to export one 9-band GeoTIFF per Landsat scene to your Google Drive. Download the exported files and place them in the `stacks/` folder.
 
 **2. Run inference**
 
