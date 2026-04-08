@@ -86,7 +86,8 @@ Each output GeoTIFF contains a single band of predicted air temperature in degre
 
 If you use this code or model in your work, please cite:
 
-> Gray, A. et al. (in prep). Near-surface air temperature mapping across Oslo using Landsat imagery and machine learning.
+> Korkou, M. & Gray, A.M. 2026. Urban varmeeksponering i Oslo: kartlegging av hotspots og prioritering av tiltaksområder. NINA Rapport 2763. Norsk institutt for naturforskning
+ISBN: 978-82-426-5604-9
 
 LST computation:
 
